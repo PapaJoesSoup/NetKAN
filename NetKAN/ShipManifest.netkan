@@ -4,9 +4,11 @@
   "identifier": "ShipManifest",
   "release_status": "stable",
   "license" : "CC-BY-NC-SA-4.0",
+  "x_netkan_license_ok" : true,
   "resources": {
     "homepage": "http://forum.kerbalspaceprogram.com/threads/62270",
     "repository": "https://github.com/PapaJoesSoup/ShipManifest",
+    "kerbalstuff" : "https://kerbalstuff.com/mod/261",
     "x_curse": "http://kerbal.curseforge.com/plugins/220357-ship-manifest"
   },
   "suggests": [
